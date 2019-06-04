@@ -1,7 +1,7 @@
 # Reinforcement Learning - Maze
 
-environment: maze, on which a rat is trying to catch cheese
-agent: neural network
+**environment:** maze, on which a rat is trying to catch cheese  
+**agent:** neural network
 
 TODO: more information (q-learning, Bellmann-Equation, etc.)
 ### A few examples
