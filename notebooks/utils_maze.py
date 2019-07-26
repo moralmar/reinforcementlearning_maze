@@ -16,6 +16,7 @@ from keras.layers.core import Dense, Activation
 from keras.optimizers import SGD , Adam, RMSprop
 from keras.layers.advanced_activations import PReLU
 
+# comment - 1. new branch
 
 def create_gif(folder_name_pngs, folder_name_gif, filenames_pngs):
     """"""
